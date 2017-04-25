@@ -46,4 +46,10 @@ how we can get the API calls in angularJs?
 
 what is the module of $http and tell me about that?
 
+What is the difference between “.$digest()” and “.$apply()”? Why would you ever call “.$digest()” on a scope?
+ Explain AngularJS boot process.
+ How can we dynamically create forms in Angular?
+  Explain $q service, deferred and promises.
+  How to do Language Internationalization in AnglarJS?
+  
 
