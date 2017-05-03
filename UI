@@ -52,4 +52,6 @@ What is the difference between “.$digest()” and “.$apply()”? Why would y
   Explain $q service, deferred and promises.
   How to do Language Internationalization in AnglarJS?
   
+  Object destructuring in JS
+  
 
